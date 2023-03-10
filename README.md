@@ -1,0 +1,2 @@
+# Vavaldie_AlchemyCrafter
+魔法みたいなクラフトシステムを作る基礎となるデタパです。
