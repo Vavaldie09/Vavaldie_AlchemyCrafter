@@ -1,0 +1,4 @@
+{
+    "criteria": {"enter": {"trigger": "minecraft:tick"}},
+    "rewards": {"function": "va_alchemy:system/load"}
+}
