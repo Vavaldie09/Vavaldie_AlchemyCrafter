@@ -1,4 +1,4 @@
-# Vavaldie_AlchemyCrafter
+# -=Vavaldie_AlchemyCrafter=-
 魔法みたいなクラフトシステムを作る基礎となるデタパです。<br>
 <br>
 ## 【なんぞこれ】<br>
