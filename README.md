@@ -1,6 +1,8 @@
 # -=Vavaldie_AlchemyCrafter=-
 魔法みたいなクラフトシステムを作る基礎となるデタパです。<br>
 <br>
+[【データパックのDLはここから】](https://github.com/Vavaldie09/Vavaldie_AlchemyCrafter/releases/download/Ver1.0/Vavaldie_AlchemyCrafter.zip)
+<br>
 ## 【なんぞこれ】<br>
 某ボタニカルなMODのクラフトに似たシステム「を実装する時」に使えるデタパ…そんなライブラリです。<br>
 クラフトレシピの作り方などのシステム全般がここにぎゅぎゅっと詰まっていて、<br>
