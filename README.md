@@ -4,7 +4,7 @@
 [【データパックのDLはここから】](https://github.com/Vavaldie09/Vavaldie_AlchemyCrafter/releases/download/Ver1.0/Vavaldie_AlchemyCrafter.zip)
 <br>
 ## 【なんぞこれ】<br>
-[使用例](https://twitter.com/vavaldie09/status/1634263763171016705?s=20)
+[使用例](https://twitter.com/vavaldie09/status/1634263763171016705?s=20)<br>
 某ボタニカルなMODのクラフトに似たシステム「を実装する時」に使えるデタパ…そんなライブラリです。<br>
 なんと2コマンドでレシピ作ってクラフト実行までが可能！<br>
 <br>
